@@ -37,6 +37,6 @@ Se você deseja contribuir para o projeto, siga estes passos:
 
 ## Contato
 
-Se você tiver alguma dúvida ou precisar de ajuda, não hesite em entrar em contato com [Nome do Responsável] via [email@example.com].
+Se você tiver alguma dúvida ou precisar de ajuda, não hesite em entrar em contato com o Discord através do link [https://discord.gg/XbWvxDCm](https://discord.gg/XbWvxDCm).
 
 Vamos criar algo incrível juntos!
