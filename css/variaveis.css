@@ -1,0 +1,11 @@
+:root {
+    --cor-background: hsl(224, 18%, 17%);
+    --cor-borda: hsl(218, 10%, 16%);
+    --cor-botao: hsl(218, 10%, 16%);
+    --cor-texto: hsl(0, 0%, 100%);
+    --cor-titulo-secundario: hsl(4, 74%, 48%);
+    --cor-shadow: hsl(223, 18%, 20%);
+    --cor-botao-secundario: hsl(260, 100%, 60%);
+    --cor-primaria-barra: hsl(260, 100%, 60%);
+    --cor-secundaria-barra: hsl(36, 93%, 55%);
+}
