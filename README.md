@@ -19,7 +19,7 @@ O projeto está estruturado da seguinte forma:
 - **Figma:** Utilizamos o Figma para criar o design visual do portfólio inicial e como referência para o estilo das imagens.
 - Utilize o [link do portfólio no Figma](https://www.figma.com/) para acessar o design padrão e as referências visuais.
 
-  - ![Imagem do Portfólio do Figma](![alt text](image.png))
+  - !Imagem do Portfólio do Figma![alt text](image.png)
   
 - **Inteligência Artificial:** Utilizamos ferramentas de IA para gerar imagens que sigam o estilo visual do Figma.
 
