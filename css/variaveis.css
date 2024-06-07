@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500&display=swap');
+
+
+:root {
+    --cor-background: hsl(224, 18%, 20%);
+    --cor-borda: hsl(218, 10%, 16%);
+    --cor-botao: hsl(218, 10%, 16%);
+    --cor-texto: hsl(0, 0%, 100%);
+    --cor-titulo-secundario: hsl(4, 74%, 48%);
+    --cor-shadow: hsl(223, 18%, 20%);
+    --cor-shadow-borda: hsl(226, 18%, 15%)
+    --cor-botao-secundario: hsl(260, 100%, 60%);
+    --cor-primaria-barra: hsl(260, 100%, 60%);
+    --cor-secundaria-barra: hsl(36, 93%, 55%);
+
+    --fonte-titulo: 'Poppins', sans-serif;
+    --peso-fonte-titulo: 500;
+    --fonte-texto: 100;
+    --fonte-titulo-secundario: 300;
+}
+
+
