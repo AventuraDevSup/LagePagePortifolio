@@ -17,7 +17,8 @@ O projeto está estruturado da seguinte forma:
 ## Ferramentas Utilizadas
 
 - **Figma:** Utilizamos o Figma para criar o design visual do portfólio inicial e como referência para o estilo das imagens.
-- Utilize o [link do portfólio no Figma]([https://www.figma.com/](https://www.figma.com/design/QVnaCoMqtlQOMhaxABAbXq/Neumorphism-Portfolio-Design-(Community)?node-id=0-1&t=OptTRAPu89CHD8nC-0)) para acessar o design padrão e as referências visuais.
+- Utilize o [link do portfólio no Figma][link do portfólio no Figma](https://www.figma.com/design/QVnaCoMqtlQOMhaxABAbXq/Neumorphism-Portfolio-Design-(Community)?node-id=0-1&t=OptTRAPu89CHD8nC-0)
+ para acessar o design padrão e as referências visuais.
 
   - !Imagem do Portfólio do Figma![alt text](image.png)
   
